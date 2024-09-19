@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Snowfire\\Beautymail\\": "src/"
+            "hasifk\\Beautymail\\": "src/"
         }
     },
     "minimum-stability": "stable",
